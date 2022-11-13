@@ -1,0 +1,68 @@
+  🏛 Layered Architecture
+  
+
+ → Definition:
+ =============================================================================================
+  Constructing a system where we group files into layers. E.g. A Presentation Layer which is
+  often referred to as the UI (User Interface). Once grouped into layers we will then control
+  the communication between layers by passing messages from one layer to the next. E.g. A UI
+  (Presentation Layer) wouldn't communicate directly to a Networking Layer. Instead, the UI
+  would communicate through some sort of manager, which in turn communicates to a Network
+  Manager constructing a 3 tier system.
+
+  A diagram of this example might look something like this:
+  
+              _________________________________________
+  Layer 3   → |          Presentation Layer           |  Tier 3
+              -----------------------------------------
+              ___________________↑_↓___________________
+  Layer 2   → |         Business Logic Layer          |  Tier 2
+              -----------------------------------------
+              ___________________↑_↓___________________
+  Layer 1   → |            Networking Layer           |  Tier 1
+              -----------------------------------------
+
+
+
+
+  A more detailed diagram might look something like this:
+  
+              _________________________________________
+  Layer 4   → |          Presentation Layer           |  Tier 4
+              -----------------------------------------
+              ___________________↑_↓___________________
+  Layer 3   → |         Business Logic Layer          |  Tier 3
+              -----------------------------------------
+              ________↑_↓________   ________↑_↓________
+  Layer 2   → |    Networking    |  |   Data Storage  |  Tier 2
+              -------------------   -------------------
+              ________↑_↓__________________↑_↓_________
+  Layer 1   → |               Data Layer              |  Tier 1
+              -----------------------------------------
+
+
+ → Spaghetti Code
+ =============================================================================================
+  If our codebase didn't have this type of structure then it would be considered as what's
+  commonly referred to as spaghetti code. The term spaghetti is used here because each file,
+  struct or class could potentially communicate with each other and often do. This makes it
+  very difficult to follow the trail of communication between them all making maintenance
+  almost impossible.
+  
+  Let's never write spaghetti code. Let's always add structure to our solutions. 👍🏿
+ 
+   
+ → To Learn More:
+ =============================================================================================
+   https://www.google.com/search?q=layered+architecture+in+software+engineering
+
+
+  → Our Company = iOSB Free Ltd
+ =============================================================================================
+   https://www.iOSBFree.com
+   
+   Let us know how we can better support you!
+   All our support & love.
+   🙋🏾 the iOSB Free team.
+   community@iosbfree.com
+   🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️

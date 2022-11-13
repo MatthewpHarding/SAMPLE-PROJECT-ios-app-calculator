@@ -1,0 +1,30 @@
+  💦 WET
+
+
+ → Definition:
+ =============================================================================================
+   Write Everything Twice
+   
+⚠️ Do not use this principle. ⚠️
+   
+   This coding principle is the opposite of DRY. We want to always write DRY code and always
+   avoid writing WET code. We don't want to repeat ourselves and we never want to write
+   everything twice.
+   
+   Let's avoid writing things twice where we can.
+   
+   
+ → To Learn More:
+ =============================================================================================
+   https://www.google.com/search?q=WET+engineering+principle
+
+
+  → Our Company = iOSB Free Ltd
+ =============================================================================================
+   https://www.iOSBFree.com
+   
+   Let us know how we can better support you!
+   All our support & love.
+   🙋🏾 the iOSB Free team.
+   community@iosbfree.com
+   🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️

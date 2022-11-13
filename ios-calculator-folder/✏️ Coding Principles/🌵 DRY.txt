@@ -1,0 +1,36 @@
+  🌵 DRY
+  
+
+ → Definition:
+ =============================================================================================
+   Don't Repeat Yourself
+   
+   This coding principle reduces the repetition of code, which centralises the logic into one
+   place. This is a great idea to help support the future maintenance of the project and lower
+   the risk of introducing inconsistencies that may occur if multiple areas had to be
+   maintained in parallel.
+   
+   Now let's think about the opposite scenario. If we had two functions that generated the same
+   behaviour then developers must repeat the changes in both locations otherwise the app would
+   contain the old behaviour as well as the new behaviour.
+   
+   By writing our code once and centralising it into one place we avoid such inconsistencies
+   and remove any possibility of having such problems.
+   
+   Let's be smart and try not to generate the same behaviour in multiple locations.
+   
+   
+ → To Learn More:
+ =============================================================================================
+   https://www.google.com/search?q=DRY+engineering+principle
+
+
+  → Our Company = iOSB Free Ltd
+ =============================================================================================
+   https://www.iOSBFree.com
+   
+   Let us know how we can better support you!
+   All our support & love.
+   🙋🏾 the iOSB Free team.
+   community@iosbfree.com
+   🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️

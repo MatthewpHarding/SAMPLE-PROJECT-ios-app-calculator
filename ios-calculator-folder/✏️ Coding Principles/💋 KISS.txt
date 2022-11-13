@@ -1,0 +1,35 @@
+  💋 KISS
+  
+
+ → Definition:
+ =============================================================================================
+   Keep It Simple. Stupid 🙈
+   
+   This acronym is widely used within the iOS industry and is a great topic to discuss at an
+   interview. As we continue to increase the complexity of each engineering solution we also
+   in turn create more opportunities for things to go wrong. We could also rephrase this
+   statement to read: The more moving parts the more potential issues.
+
+   We should always try not to over-engineer each solution and instead write less code,
+   more readable code and easier to understand code.
+   
+   Many negatives exist when over-engineering a solution to construct complex systems, whilst
+   no negatives exist when simplifying a solution down to a smaller number of parts.
+   
+   Let's be smart and keep our ideas simple!
+   
+   
+ → To Learn More:
+ =============================================================================================
+   https://www.google.com/search?q=KISS+engineering+principle
+
+
+  → Our Company = iOSB Free Ltd
+ =============================================================================================
+   https://www.iOSBFree.com
+   
+   Let us know how we can better support you!
+   All our support & love.
+   🙋🏾 the iOSB Free team.
+   community@iosbfree.com
+   🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️

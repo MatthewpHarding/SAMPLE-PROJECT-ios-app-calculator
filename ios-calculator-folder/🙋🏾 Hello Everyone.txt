@@ -1,0 +1,59 @@
+  🙋🏾 Hello Everyone!
+  🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
+
+
+ → What's This Project?
+ =============================================================================================
+   It's a professional-quality project to build an AppStore-quality calculator app.
+   
+   
+ → Our Teaching Objectives:
+ =============================================================================================
+   ✔️ learn how to professionally structure an Xcode project
+   ✔️ learn the fundamental coding principles used within the iOS industry
+   ✔️ to use these coding principles
+   ✔️ to architect a full solution thinking like an engineer
+
+
+  → This Project Demonstrates:
+ =============================================================================================
+   ⦿ commercial-quality architecture
+   ⦿ layered architecture
+   ⦿ keeping our files small
+   ⦿ separating each responsibility into different types (class or struct)
+   ⦿ writing readable code
+   ⦿ testing our work (our private testing team!)
+   ⦿ safely accessing values in an array
+   ⦿ using animations
+   ⦿ creating a color theme manager
+   ⦿ using extensions
+   ⦿ using pdf vector-based images
+   ⦿ storing basic data to disk (user preferences)
+   ⦿ copy & paste menu
+   ⦿ listening for user gestures
+   ⦿ create colors from hex values (e.g. #FFFFFF)
+   ⦿ using storyboards
+   ⦿ centralising values in a constants file
+   ⦿ using guard statements
+   ⦿ correct use of unwrapping optionals
+   ⦿ storing custom types to disk (using JSON)
+   ⦿ avoiding over-engineering
+   ⦿ communicating using notifications
+   ⦿ returning more than 1 value from a function
+
+
+  → More Free Online Courses:
+ =============================================================================================
+   Join us on Udemy for more information on iOS, Swift and SwiftUI for FREE!
+   https://www.udemy.com/user/iosbfree
+
+
+  → Our Company = iOSB Free Ltd
+ =============================================================================================
+   https://www.iOSBFree.com
+   
+   Let us know how we can better support you!
+   All our support & love.
+   🙋🏾 the iOSB Free team.
+   community@iosbfree.com
+   🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️

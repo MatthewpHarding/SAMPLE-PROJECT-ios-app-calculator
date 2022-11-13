@@ -1,0 +1,30 @@
+  🧪 Unit Testing
+
+
+ → Definition:
+ =============================================================================================
+  We can ensure that our managers work as intended by connecting a machine to their public
+  methods or whats also referred to as an API (Application Programming Interface). This allows
+  us to test if the overall system behaves as expected no matter what goes on inside.
+ 
+  The great news about Xcode is that it comes pre-built with its own testing team! To make
+  this even better they always deliver their results within a few seconds leaving us
+  reassured that our code functions as intended and designed.
+
+  It's great to have our very own testing team. Let's try to use it!
+   
+   
+ → To Learn More:
+ =============================================================================================
+   https://www.google.com/search?q=unit+testing+in+software+engineering
+
+
+  → Our Company = iOSB Free Ltd
+ =============================================================================================
+   https://www.iOSBFree.com
+   
+   Let us know how we can better support you!
+   All our support & love.
+   🙋🏾 the iOSB Free team.
+   community@iosbfree.com
+   🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️

@@ -1,0 +1,29 @@
+👨‍👧‍👧 Single Responsibility
+
+
+ → Definition:
+ =============================================================================================
+   Any type that you create (e.g. class or struct) should only do one thing. It should only
+   have one purpose and exist for one reason. You might say that it should only have one
+   single responsibility.
+
+   E.g. A networking manager class shouldn't also store data to disk. This would break the
+   Single Responsibility principle leaving a class with two main purposes instead of one.
+   
+   Let's avoid managers that do two things. Let's create types that only do one thing each.
+   
+   
+ → To Learn More:
+ =============================================================================================
+   https://www.google.com/search?q=single+responsibility+in+software+engineering
+
+
+  → Our Company = iOSB Free Ltd
+ =============================================================================================
+   https://www.iOSBFree.com
+   
+   Let us know how we can better support you!
+   All our support & love.
+   🙋🏾 the iOSB Free team.
+   community@iosbfree.com
+   🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
