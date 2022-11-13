@@ -2,19 +2,19 @@
 
 Swift v5.7 | [Swift versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org).
 
-Taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+Our products are based from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
 ![Xcode Playground](readme-images/xcode-icon.png)
 ![Swift Playground Icon](readme-images/playground-file.png)
 
-👉 You can [view this document in Xcode](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) to run and edit each example.
+👉 You can [view this project in Xcode](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip) to build an iOS calculator app.
 ## Run This File In Xcode
 
 **Step 1:** Clone this repo or [download the files](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip).
 
-**Step 2:** In Xcode, ensure you have selected **Editor/Show Rendered Markup** to view the formatted instructions.
+**Step 2:** In Xcode, build and run the project.
 
-**Step 3:** You can edit the code within Xcode!  🎉
+**Step 3:** You have an iOS app - you can edit it too!  🎉
 
 🤩 *..let's live a better life, by learning Swift* 🛠
 
